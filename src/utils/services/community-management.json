@@ -1,0 +1,30 @@
+{
+    "title": "Community Management",
+    "introTitle": "World-class community & brand management",
+    "introDescription": "X8C offers <span>24/7</span> community moderation services with a focus on <span>brand representation</span>, professional communication, and community building through engaging content. Trust us as your preferred project partner to sustain and foster your project’s native community.",
+    "processTitle": "Our Process",
+    "processDescription": "The process of creating your marketing strategy will vary depending on your specific goals and needs, however these are some of the steps you can expect us to take:",
+    "processList": [
+        {
+            "label": "Establishing Standards",
+            "text": "Our first step in managing a thriving online community is to establish clear <span>operational standards</span>. This includes determining the number of shifts needed to moderate the community, the number of our moderators required for each shift, and the duration of each shift."
+        },
+        {
+            "label": "Kickstarting",
+            "text": "Once the operational standards have been established, our moderation team will kickstart the process by learning about your <span>specific needs</span> and <span>goals</span>. This includes us gaining a thorough understanding of your project and its <span>objectives</span>."
+        },
+        {
+            "label": "AI-Powered-Bots",
+            "text": "We will introduce relevant bots into the channels to automate certain tasks and improve the moderation team's <span>efficiency</span>. These bots will be used to answer frequently asked questions, flag inappropriate content, or monitor the community for potential issues."
+        },
+        {
+            "label": "Community Connection",
+            "text": "Our key to managing a thriving online community will be to actively <span>engage</span> with the members, answer questions, address concerns, and escalate any issues regarding your project."
+        },
+        {
+            "label": "Recap and Support",
+            "text": "To ensure that your community is well-managed and all our moderation tasks are completed efficiently and effectively, we will provide regular recaps and <span>support</span>."
+        }
+    ],
+    "caseStudies": [0]    
+}

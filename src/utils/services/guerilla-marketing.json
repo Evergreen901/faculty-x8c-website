@@ -1,0 +1,35 @@
+{
+    "title": "Guerilla Marketing",
+    "introTitle": "Make Noise and Build Awareness",
+    "introDescription": "Boost your project’s brand <span>social presence</span> with X8C's guerilla marketing on various platforms like Twitter, Telegram, Discord, Reddit, and/or 4chan. <span>Build awareness</span>, create noise on prominent socials, and <span>amplify engagement</span> with our team's help.",
+    "processTitle": "Our Process",
+    "processDescription": "The process of creating your marketing strategy will vary depending on your specific goals and needs, however these are some of the steps you can expect us to take:",
+    "processList": [
+        {
+            "label": "Operational Standards",
+            "text": "To ensure that your marketing efforts run smoothly and all <span>deliverables</span> are met, we will align on the operational standards and decide on the number of platforms that will be utilised."
+        },
+        {
+            "label": "Setting the Bar",
+            "text": "Before starting any project, it is crucial to establish clear <span>key performance indicators</span> (KPIs). This will ensure that everyone knows what is expected of them and that your project’s marketing is moving in the right direction."
+        },
+        {
+            "label": "Narratives",
+            "text": "A compelling narrative is essential for any successful <span>promotion</span>. Our GM team will work with you to create a narrative that aligns with your brand and <span>resonates</span> with your <span>target audience</span>."
+        },
+        {
+            "label": "Campaigning for Results",
+            "text": "After the <span>narrative</span> has been defined, we will be <span>launching</span> tailor-made campaigns. This will ensure that your project is moving forward and results are being generated."
+        },
+        {
+            "label": "Daily Check-ins",
+            "text": "It is essential to keep up with the <span>progress</span> of your project on a <span>daily</span> basis. We will be checking metrics, Medium content, Twitter profile, CoinGecko/CoinMarketCap pages, and any other relevant platforms around the clock."
+        },
+        {
+            "label": "Collaboration & Communication",
+            "text": "Our team will share <span>observations</span> and <span>feedback</span> on a daily basis, and discuss narratives, suggestions, and any questions in detail on the sync-up calls."
+        }
+    ],
+    "caseStudies": [1, 2, 3, 4]
+    
+}

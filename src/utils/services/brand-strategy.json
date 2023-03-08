@@ -1,0 +1,34 @@
+{
+    "title": "Brand Strategy",
+    "introTitle": "The foundations for marketing success.",
+    "introDescription": "A well-defined <span>brand architecture</span> is crucial for a successful marketing strategy. Your project’s Purpose, Vision, Mission, and Proposition will serve as a foundation for your project’s <span>brand identity</span>, voice, behaviours, content, and more. A compelling <span>brand story</span> that connects with your project’s audience will fuel the growth of your project’s marketing strategy.",
+    "processTitle": "Our Process",
+    "processDescription": "The process of creating your marketing strategy will vary depending on your specific goals and needs, however these are some of the steps you can expect us to take:",
+    "processList": [
+        {
+            "label": "Insight Gathering",
+            "text": "Our team will conduct in-depth interviews with the senior leadership team to gather <span>comprehensive information</span> about the organisation, including its goals, values, and culture. This will provide a deeper understanding of your project’s <span>mission</span>, <span>vision</span>, and <span>direction</span>."
+        },
+        {
+            "label": "Pulse Check",
+            "text": "We will conduct a comprehensive <span>survey</span> of all employees to gauge the <span>sentiment</span> and engagement of the workforce. This will provide a clear understanding of your project’s internal culture and the employees perception of your project."
+        },
+        {
+            "label": "Discovery",
+            "text": "Our team will thoroughly analyse the data collected from the interviews and surveys to <span>identify</span> key <span>themes</span> and alignments with the leadership team. This will provide a clear understanding of your project’s strengths, weaknesses, opportunities, and challenges."
+        },
+        {
+            "label": "Crafting a Brand",
+            "text": "We then will proceed to use the information gathered from the discovery phase to craft a <span>purpose</span>, <span>vision</span>, <span>mission</span>, and <span>proposition</span>. This will provide a clear direction for your project's branding and messaging."
+        },
+        {
+            "label": "Messaging Workshop",
+            "text": "We will hold a workshop with the leadership team to review and challenge the messaging. This will ensure that the messaging <span>resonates</span> with your project’s <span>values</span> and aligns with your project’s <span>direction</span>."
+        },
+        {
+            "label": "Brand Bible Creation",
+            "text": "Our team will deliver a Brand Bible that guides future marketing activities. The Brand Bible will provide a <span>comprehensive guide</span> to your project’s messaging, branding, and <span>visual identity</span>, ensuring that all future marketing efforts are aligned with your project’s direction and values."
+        }
+    ]
+    
+}

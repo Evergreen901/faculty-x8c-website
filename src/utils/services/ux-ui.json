@@ -1,0 +1,34 @@
+{
+    "title": "UX/UI",
+    "introTitle": "Designing for Success",
+    "introDescription": "Our team offers comprehensive UX/UI design services, such as user research, wireframing, prototyping, and testing, to create user-friendly and engaging <span>customer experiences</span>. Our expertise in UX/UI design can help increase your project’s customer satisfaction, usability, accessibility, conversions, and <span>brand loyalty</span> for new or existing products.",
+    "processTitle": "Our Process",
+    "processDescription": "The process of creating your marketing strategy will vary depending on your specific goals and needs, however these are some of the steps you can expect us to take:",
+    "processList": [
+        {
+            "label": "Insight Discovery",
+            "text": "Our designers will conduct in-depth <span>research</span> to understand user needs and behaviours, including surveys, interviews, and usability <span>testing</span> to gain insight from the target audience and their pain points."
+        },
+        {
+            "label": "Staying Ahead",
+            "text": "We will keep a close eye on <span>competitors</span>, analyse their strategies, and stay ahead of industry <span>trends</span> to ensure the design stands out and meets user needs."
+        },
+        {
+            "label": "Wireframe Design",
+            "text": "Designing wireframes and mockups to <span>visually communicate</span> the website layout, user flow, and functionality, and receiving feedback and input from stakeholders will be the next step in the process."
+        },
+        {
+            "label": "Testing, Testing",
+            "text": "Our designers will then conduct extensive <span>usability testing</span> to ensure the website is easy to navigate, user-friendly, and meets the needs of the target audience, making necessary adjustments and improvements."
+        },
+        {
+            "label": "Let there be life",
+            "text": "We will follow through by bringing the design to life through <span>development</span>, including coding and programming to ensure the website is <span>fully functional</span> and visually appealing."
+        },
+        {
+            "label": "Continuous Optimisation",
+            "text": "Our designers will continuously <span>monitor</span> user engagement and <span>feedback</span>, making data-driven decisions, and making ongoing improvements to the website's design and functionality to <span>optimise</span> the user experience."
+        }
+    ]
+    
+}

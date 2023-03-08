@@ -1,0 +1,26 @@
+{
+    "title": "Branding",
+    "introTitle": "The foundations for marketing success.",
+    "introDescription": "Your project brand is the <span>emotional connection</span> that customers have with your project, even in the absence of a physical presence. This connection is created through research and strategic brand marketing, and it helps establish <span>trust</span> and win loyal <span>customers</span>. Building a brand is about understanding and responding to customer needs and maintaining a positive perception.",
+    "processTitle": "Our Process",
+    "processDescription": "The process of creating your marketing strategy will vary depending on your specific goals and needs, however these are some of the steps you can expect us to take:",
+    "processList": [
+        {
+            "label": "Audience Research",
+            "text": "Our team will conduct thorough research to gain a deep understanding of your project’s <span>target audience</span> and what connects with them emotionally. This includes reviewing existing data, conducting surveys and focus groups, and <span>analysing</span> industry trends and <span>customer behaviour</span>."
+        },
+        {
+            "label": "Message Development",
+            "text": "Based on the insights gained from our audience research, we will work with your team to develop a <span>brand message</span> that resonates with your project’s target customers and creates a positive perception. This message will be the foundation of your brand's voice, tone, and style."
+        },
+        {
+            "label": "Branding Implementation",
+            "text": "Our branding experts will partner with your team to bring your project’s brand to life through consistent messaging, visual elements, and customer experiences. This includes creating a <span>visual identity</span>, designing a website and social media presence, and developing <span>marketing materials</span> that align with your project’s brand messaging."
+        },
+        {
+            "label": "Ongoing Management",
+            "text": "To ensure the success and longevity of your the branding efforts, we will continuously monitor and adjust to maintain a strong emotional connection with your project’s audience. This includes <span>tracking</span> key metrics, gathering customer <span>feedback</span>, and updating as needed to keep your brand relevant and connected with your target customers."
+        }
+    ]
+    
+}

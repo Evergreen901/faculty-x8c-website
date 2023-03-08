@@ -1,0 +1,34 @@
+{
+    "title": "Social Media Management",
+    "introTitle": "High-performing social strategies",
+    "introDescription": "X8C's SMM team manages <span>high-performing</span> social media campaigns on prominent platforms, leveraging next-gen strategies for <span>measurable results</span>. We work as an extension of your project’s marketing team.",
+    "processTitle": "Our Process",
+    "processDescription": "The process of creating your marketing strategy will vary depending on your specific goals and needs, however these are some of the steps you can expect us to take:",
+    "processList": [
+        {
+            "label": "Setting Standards",
+            "text": "To ensure a smooth and successful campaign, it is important to align operation standards and <span>deliverables</span>. This includes establishing clear goals, outlining the <span>scope of work</span>, and determining the roles and responsibilities of all parties involved."
+        },
+        {
+            "label": "Communications",
+            "text": "Effective communication is key to the success of any campaign. To facilitate this, we will create a Telegram chat group for <span>real-time</span> communication and campaign setup."
+        },
+        {
+            "label": "Performance Audit",
+            "text": "The project lead will conduct regular social media audits to <span>monitor</span> the <span>performance</span> of your campaigns. This will involve taking snapshots of important metrics, such as engagement and conversion rates, to identify areas for improvement and make data-driven decisions about how to <span>optimise</span> your project’s social media strategy."
+        },
+        {
+            "label": "Your Social Blueprints",
+            "text": "We will work with you to <span>define</span> a social media <span>strategy</span> tailored to your project’s business goals. This will involve identifying the right channels and platforms to target, crafting compelling content, and setting clear KPIs to measure success."
+        },
+        {
+            "label": "The Takeover",
+            "text": "Our team will set up or take over your social media accounts. This includes <span>creating</span> and <span>optimising</span> profiles, developing a content calendar, and <span>managing</span> day-to-day operations such as posting, monitoring, and engaging with your project’s audience."
+        },
+        {
+            "label": "Always up to Date",
+            "text": "To ensure that your campaigns are always running at their best, we will schedule <span>weekly calls</span> to plan content, discuss metrics, and make adjustments as needed. Additionally, we will send <span>monthly reports</span> to clients with metrics, engagement data, analytics, and supporting actions."
+        }
+    ]
+    
+}

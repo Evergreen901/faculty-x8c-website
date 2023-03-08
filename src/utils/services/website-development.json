@@ -1,0 +1,30 @@
+{
+    "title": "Website Development",
+    "introTitle": "High-Performing Digital Solutions",
+    "introDescription": "Web3 standards are high, so it's more important than ever to have a strong <span>online presence</span>. That's where we come in. With years of experience, we know how to create high-converting website solutions that fuel your project’s growth strategy. We use the latest technology and a transparent process to design digital products that are not only <span>high-performing</span> but also fully <span>scalable</span>.",
+    "processTitle": "Our Process",
+    "processDescription": "The process of creating your marketing strategy will vary depending on your specific goals and needs, however these are some of the steps you can expect us to take:",
+    "processList": [
+        {
+            "label": "Goals Discovery",
+            "text": "Our discovery session to understand the business, audience, and website goals will be in-depth and detailed. We will define a specific target audience, and <span>identify</span> pain points and goals to develop a comprehensive understanding of your project’s vision and <span>objectives</span>."
+        },
+        {
+            "label": "Structured Definition",
+            "text": "Our team will clearly <span>define</span> website structure, content, design, and branding with detailed suggestions and samples for review and approval. We will discuss your project’s <span>vision</span> and <span>goals</span> in depth, creating wireframes and mockups that align with your project's brand, and providing samples of similar websites for reference."
+        },
+        {
+            "label": "Progressive Build",
+            "text": "We will <span>build</span> a website according to specifications, handle technical details, and provide frequent <span>updates</span> and progress reports to ensure the website is built according to your project’s vision and goals."
+        },
+        {
+            "label": "Content & Training",
+            "text": "We will assist with necessary website content such as copywriting, image sourcing, video production and provide comprehensive <span>training</span> and <span>support</span> for website management. "
+        },
+        {
+            "label": "Testing, Testing",
+            "text": "Our developers will conduct thorough testing, provide ongoing support, and offer additional digital marketing services. Testing your website <span>functionality</span>, user experience, and overall <span>performance</span>, providing support for any issues that may arise, and offering additional services such as SEO and PPC advertising to help drive traffic to your project’s website will be an essential part of the process."
+        }
+    ]
+    
+}

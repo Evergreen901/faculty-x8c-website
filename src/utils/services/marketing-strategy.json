@@ -1,0 +1,38 @@
+{
+    "title": "Marketing Strategy",
+    "introTitle": "Retain, Attract & Drive, Strategies that Deliver",
+    "introDescription": "A growth marketing strategy is essential for your Web3 project seeking <span>scalability and sustainable growth</span>. We help prioritise effective tactics through data-driven improvements and targeted campaigns to achieve your business goals, such as attracting new customers, retaining current ones, and driving revenue growth.",
+    "processTitle": "Our Process",
+    "processDescription": "The process of creating your marketing strategy will vary depending on your specific goals and needs, however these are some of the steps you can expect us to take:",
+    "processList": [
+        {
+            "label": "Defining Business Goals",
+            "text": "Our team will clearly list and define your project’s business goals and <span>objectives</span>, including identifying specific <span>targets</span> and <span>key performance indicators</span> that will be used to measure success."
+        },
+        {
+            "label": "Marketing Audit",
+            "text": "We will conduct a thorough marketing audit to identify areas of improvement, including <span>analysing</span> current marketing efforts, <span>identifying</span> strengths and weaknesses, and identifying opportunities for growth."
+        },
+        {
+            "label": "Understanding Target Audience",
+            "text": "In the following step, we will understand the demographics, behavioural patterns, and pain points of our project's target audience, which will include conducting <span>market research</span> and <span>analysis</span> to gather this <span>information</span>."
+        },
+        {
+            "label": "Analysing Competition",
+            "text": "We will analyse the <span>competition</span>, including identifying the strengths and weaknesses of other projects in your project’s space and understanding their marketing <span>strategies</span>."
+        },
+        {
+            "label": "Strategic Development",
+            "text": "Our team will develop a <span>customised</span> marketing <span>strategy</span> tailored to your business, including identifying the most effective tactics and channels to reach your target audience and achieve your project’s <span>business goals</span>."
+        },
+        {
+            "label": "Execution",
+            "text": "We then will proceed with executing the chosen tactics and channels in the strategy, including creating a detailed <span>action plan</span> and <span>assigning</span> specific tasks and responsibilities to team members."
+        },
+        {
+            "label": "Getting Results",
+            "text": "Our team will continuously <span>measure</span> and <span>analyse</span> results for strategy <span>optimisation</span>, including tracking key performance indicators, identifying areas of success and areas that need improvement, and making adjustments to the strategy as needed."
+        }
+    ]
+    
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Public Relations",
+    "introTitle": "Elevate your Public Relations",
+    "introDescription": "Partner with top crypto and mainstream publications such as CoinDesk, Cointelegraph, Bloomberg, Nasdaq and more to elevate your project’s <span>credibility</span> and PR. We also feature PR articles on CryptoNewsLine and social blogs for an increased audience and <span>maximum outreach</span>.",
+    "processTitle": "Our Process",
+    "processDescription": "The process of creating your marketing strategy will vary depending on your specific goals and needs, however these are some of the steps you can expect us to take:",
+    "processList": [
+        {
+            "label": "Tailored Solutions",
+            "text": "At the beginning of our engagement, we will present a range of PR package options, each designed to meet <span>different needs</span> according to your <span>budget</span>. These packages will be tailored to your project's specific goals, audience, and industry."
+        },
+        {
+            "label": "Uncovering Details",
+            "text": "Before we begin creating a PR campaign, we will schedule a discovery call with you to discuss your project in more detail. During this call, we will work together to uncover your project's <span>specific goals</span>, <span>target audience</span>, and <span>key messaging</span>."
+        },
+        {
+            "label": "Narrative Creation",
+            "text": "Our editors will <span>create</span> the narrative and campaign details which are confirmed by your team."
+        },
+        {
+            "label": "Crafting the Perfect Piece",
+            "text": "Our in-house <span>content</span> writer will then draft and edit the respective <span>articles</span> with the approved content until satisfaction is achieved."
+        },
+        {
+            "label": "The Right Audience",
+            "text": "The approved content and banners will be pitched to the preferred <span>publications</span>."
+        },
+        {
+            "label": "Launch Time",
+            "text": "Once the pieces have been placed, we will work to ensure that they are published and <span>syndicated</span> in a timely manner."
+        },
+        {
+            "label": "In the Loop",
+            "text": "After 2 weeks, we will provide you with a <span>report</span> on the <span>performance</span> of the campaign. This report will include metrics such as the reach of the pieces, engagement rates, and any conversions that were generated as a <span>result</span> of the campaign."
+        }
+    ],
+    "caseStudies": [5, 6]
+    
+}

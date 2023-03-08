@@ -1,0 +1,30 @@
+{
+    "title": "KOL Management",
+    "introTitle": "Leading the way in Web3",
+    "introDescription": "X8C partners with top crypto KOLs to increase your <span>project exposure</span>, grow audience, and build <span>brand credibility</span>. We offer KOL mapping, identification, management, and relationship-building services at multiple price points.",
+    "processTitle": "Our Process",
+    "processDescription": "The process of creating your marketing strategy will vary depending on your specific goals and needs, however these are some of the steps you can expect us to take:",
+    "processList": [
+        {
+            "label": "Planning",
+            "text": "In this planning stage, we will work closely with your team to understand the <span>budget</span> and the <span>platforms</span> that your project would like to use for promotion."
+        },
+        {
+            "label": "Outreach",
+            "text": "Once the planning stage is completed, we will reach out to a carefully <span>curated selection</span> of key opinion leaders (KOLs) who are a good fit for your project’s brand and campaign."
+        },
+        {
+            "label": "Communications",
+            "text": "To ensure <span>effective</span> communication and <span>coordination</span> throughout the campaign, we will create a Telegram chat group for your project team."
+        },
+        {
+            "label": "Performance",
+            "text": "Throughout the campaign, the KOLs will be <span>responsible</span> for completing a range of activities, such as <span>creating content</span>, posting on social media, and <span>engaging</span> with their audience."
+        },
+        {
+            "label": "Knowledge",
+            "text": "The KOLs will send weekly <span>reports</span> to our team, which will be reviewed and presented to you to identify the areas of improvement."
+        }
+    ]
+    
+}
